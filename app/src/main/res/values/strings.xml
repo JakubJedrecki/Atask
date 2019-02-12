@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InterviewTask</string>
+    <string name="txt_basket">basket</string>
+    <string name="txt_checkout">Checkout</string>
+
+    <string name="txt_quantity">Quantity %d</string>
+    <string name="txt_price">\u00A3 %1$,.2f</string>
+    <string name="txt_select_currency">Select currency</string>
+    <string name="txt_refresh_currencies">Refresh currencies</string>
+    <string name="txt_total_price">Total price: </string>
+    <string name="txt_currency">Currency:</string>
+    <string name="txt_added_to_basket">Added to basket</string>
+</resources>
